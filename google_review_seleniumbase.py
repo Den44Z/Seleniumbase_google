@@ -91,7 +91,7 @@ def log_in_and_post_review(account):
         except Exception as e:
             print(f"An error occurred with account {username}: {e}")
 
-accounts = [('rdadszucchi@gmail.com', 's55jommo988m',
+accounts = [('rdadszucchi@gmail.com', '',
 'https://www.google.com/search?gs_ssp=eJzj4tVP1zc0LDAwMrUsryg0YLRSNagwNEk2tkizNE9OMTZNSkwxtjKoME2yME1NSzYzsrRINbE0N_eSTMwrScypTFTISKwsS8xLLFFISsw4vDy1OBMAtC4ZlQ&client=opera-gx&q=antalya+hayvanat+bahçesi&sourceid=opera&ie=UTF-8&oe=UTF-8',
              'Great experience!')]
 #https://www.google.com/maps/api/js/ReviewsService.LoadWriteWidget2?key=AIzaSyBcv0QfUNUfBwo8pIGJ3teNCkaluSGUWus&authuser=0&hl=en-GB&origin=https%3A%2F%2Fwww.google.com&pb=!2m1!1sChIJ07o1zZePwxQRd0mOKcbvhVs!7b1&cb=53571027
